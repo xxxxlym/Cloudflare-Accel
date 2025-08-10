@@ -160,7 +160,3 @@
    curl https://your-domain/invalid.com/path
    ```
    - 返回：`Error: Invalid target domain.`
-
-## 许可证
-
-本项目基于 MIT 许可证。详情见 [LICENSE](LICENSE) 文件。
